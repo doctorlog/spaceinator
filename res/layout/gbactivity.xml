@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:id="@+id/frame">
+
+    <au.com.f1n.spaceinator.GBGLSurfaceView
+        android:id="@+id/gl"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </au.com.f1n.spaceinator.GBGLSurfaceView>
+
+</FrameLayout>

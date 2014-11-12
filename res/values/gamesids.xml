@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">749344035687</string>
+  <string name="achievement_ultimate_driver_20">CgkI56aKw-cVEAIQAQ</string>
+  <string name="achievement_milky_way_master_50">CgkI56aKw-cVEAIQAg</string>
+  <string name="achievement_scout_crusher_20">CgkI56aKw-cVEAIQBg</string>
+  <string name="achievement_better_ship_10">CgkI56aKw-cVEAIQBw</string>
+  <string name="achievement_ultimate_ship_1">CgkI56aKw-cVEAIQCQ</string>
+  <string name="achievement_trigger_happy_40">CgkI56aKw-cVEAIQCg</string>
+  <string name="achievement_store_is_open_10">CgkI56aKw-cVEAIQCw</string>
+  <string name="achievement_maximum_milky_way_100">CgkI56aKw-cVEAIQDA</string>
+  <string name="achievement_shield_celler_50">CgkI56aKw-cVEAIQDQ</string>
+  <string name="achievement_big_asteroid_25">CgkI56aKw-cVEAIQDg</string>
+  <string name="achievement_turrets_all_round_20">CgkI56aKw-cVEAIQDw</string>
+  <string name="achievement_epic_fail_40">CgkI56aKw-cVEAIQEA</string>
+  <string name="achievement_survivor_50">CgkI56aKw-cVEAIQEQ</string>
+  <string name="achievement_planet_basher_25">CgkI56aKw-cVEAIQEg</string>
+  <string name="achievement_advanced_andromeda_50">CgkI56aKw-cVEAIQEw</string>
+  <string name="achievement_additional_andromeda_100">CgkI56aKw-cVEAIQFA</string>
+  <string name="achievement_who_did_this_10">CgkI56aKw-cVEAIQFQ</string>
+  <string name="achievement_zero_hero_10">CgkI56aKw-cVEAIQFg</string>
+  <string name="achievement_fighter_fighter_10">CgkI56aKw-cVEAIQFw</string>
+  <string name="achievement_first_one_is_free_10">CgkI56aKw-cVEAIQGA</string>
+  <string name="leaderboard_driver_training">CgkI56aKw-cVEAIQAw</string>
+  <string name="leaderboard_lasers">CgkI56aKw-cVEAIQBA</string>
+  <string name="leaderboard_aliens">CgkI56aKw-cVEAIQBQ</string>
+  <string name="leaderboard_asteroid_challenge">CgkI56aKw-cVEAIQGQ</string>
+  <string name="leaderboard_protection">CgkI56aKw-cVEAIQGg</string>
+  <string name="leaderboard_infinity">CgkI56aKw-cVEAIQGw</string>
+  <string name="leaderboard_asteroid_rift">CgkI56aKw-cVEAIQHA</string>
+  <string name="leaderboard_time_trial">CgkI56aKw-cVEAIQHQ</string>
+  <string name="leaderboard_spike">CgkI56aKw-cVEAIQHg</string>
+  <string name="leaderboard_warp_milky_way">CgkI56aKw-cVEAIQHw</string>
+  <string name="leaderboard_gauntlet">CgkI56aKw-cVEAIQIA</string>
+  <string name="leaderboard_solar_fighter">CgkI56aKw-cVEAIQIQ</string>
+  <string name="leaderboard_super_rift">CgkI56aKw-cVEAIQIg</string>
+  <string name="leaderboard_bomb">CgkI56aKw-cVEAIQIw</string>
+  <string name="leaderboard_purple_race">CgkI56aKw-cVEAIQJA</string>
+  <string name="leaderboard_clock">CgkI56aKw-cVEAIQJQ</string>
+  <string name="leaderboard_amber_race">CgkI56aKw-cVEAIQJg</string>
+  <string name="leaderboard_alien_worm">CgkI56aKw-cVEAIQJw</string>
+  <string name="leaderboard_black_hole">CgkI56aKw-cVEAIQKA</string>
+  <string name="leaderboard_warp_andromeda">CgkI56aKw-cVEAIQKQ</string>
+  <string name="leaderboard_super_gauntlet">CgkI56aKw-cVEAIQKg</string>
+  <string name="leaderboard_white_sun">CgkI56aKw-cVEAIQKw</string>
+  <string name="leaderboard_ultra_rift">CgkI56aKw-cVEAIQLA</string>
+</resources>
